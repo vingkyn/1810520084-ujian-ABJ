@@ -1,0 +1,16 @@
+pw1
+fs/01
+sw2
+ss/0/0
+sw2
+ss/0/0
+switch 1
+fasteternet01
+swict 2
+fasteternet02
+switch 3
+fasteternet00
+sw1
+fasteternet/01
+sw2
+fasteternet/00
